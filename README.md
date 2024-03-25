@@ -1,15 +1,15 @@
 # Group 1
 Isabelle Kiser: https://github.com/isabellekiser
 
-Will Cobb Github Repository: 
+Will Cobb: 
 
-Bhavik Maniklal Github Repository:
+Bhavik Maniklal:
 
-Ty Marcinczyk Github Repository: https://github.com/TylerMar1/Soccer-Team-Group-1
+Ty Marcinczyk: https://github.com/TylerMar1/Soccer-Team-Group-1
 
-Ryan Schoessling Github Repository:
+Ryan Schoessling:
 
-Jaiden Timmons Github Repository:
+Jaiden Timmons:
 
 # Client Scenario Overview:
 
