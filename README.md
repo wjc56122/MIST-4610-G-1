@@ -1,3 +1,4 @@
+### Mist 4610 Group Project 1 
 # Group Name
 
 Sp24_47114_Group 1
@@ -35,3 +36,6 @@ To tackle this challenge, we require a relational database system that can strea
 
 # Queries
 
+# Database information:
+
+Name of the database: Sp24_47114_Group 1
