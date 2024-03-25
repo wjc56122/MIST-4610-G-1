@@ -1,8 +1,15 @@
 # Group 1
-Group name: 
-SP24_47114_Group1
-Team members:
-Isabelle Kiser- https://github.com/isabellekiser
+Isabelle Kiser: https://github.com/isabellekiser
+
+Will Cobb Github Repository: 
+
+Bhavik Maniklal Github Repository:
+
+Ty Marcinczyk Github Repository: https://github.com/TylerMar1/Soccer-Team-Group-1
+
+Ryan Schoessling Github Repository:
+
+Jaiden Timmons Github Repository:
 
 # Client Scenario Overview:
 
