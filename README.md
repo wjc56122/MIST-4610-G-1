@@ -1,9 +1,9 @@
-### Mist 4610 Group Project 1 
-# Group Name
+# Mist 4610 Group Project 1 
+### Group Name
 
 Sp24_47114_Group 1
 
-# Group Members
+### Group Members
 Isabelle Kiser: https://github.com/isabellekiser
 
 Will Cobb: 
