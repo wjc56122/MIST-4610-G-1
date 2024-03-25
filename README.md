@@ -4,17 +4,7 @@
 Sp24_47114_Group 1
 
 ### Group Members
-Isabelle Kiser: https://github.com/isabellekiser
-
-Will Cobb: 
-
-Bhavik Maniklal:
-
-Ty Marcinczyk: https://github.com/TylerMar1/Soccer-Team-Group-1
-
-Ryan Schoessling:
-
-Jaiden Timmons:
+Isabelle Kiser, Will Cobb, Bhavik Maniklal, Ty Marcinczyk, Ryan Schoessling, Jaiden Timmons
 
 ### Client Scenario Overview:
 
