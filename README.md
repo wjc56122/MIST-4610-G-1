@@ -23,6 +23,8 @@ To tackle this challenge, we require a relational database system that can strea
 ### Data Model 
 ![Soccer](https://github.com/isabellekiser/Soccer-Team/assets/149964200/9b751434-b5e1-4c10-9ae3-a451cf59c727)
 
+*Explanation*
+
 ### Data Dictionary
 
 ### Queries
