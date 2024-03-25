@@ -1,4 +1,8 @@
-# Group 1
+# Group Name
+
+Sp24_47114_Group 1
+
+# Group Members
 Isabelle Kiser: https://github.com/isabellekiser
 
 Will Cobb: 
