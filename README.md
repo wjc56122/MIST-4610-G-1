@@ -1,4 +1,4 @@
-# Mist 4610 Group Project 1 
+# MIST 4610 Group Project 1 
 ### Group Name
 
 Sp24_47114_Group 1
