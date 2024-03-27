@@ -7,12 +7,21 @@ Sp24_47114_Group 1
 
 Isabelle Kiser 
 [@isabellekiser](https://github.com/isabellekiser)
+
 Will Cobb 
 [@wjc56122](https://github.com/wjc56122)
-Bhavik Maniklal [@BhavikManiklal](https://github.com/BhavikManiklal ) 
-Ty Marcinczyk [@TylerMar1](https://github.com/TylerMar1)
-Ryan Schoessling [@rschoess3](https://github.com/rschoess3)
-Jaiden Timmons [@jaidentimmons](https://github.com/jaidentimmons)
+
+Bhavik Maniklal 
+[@BhavikManiklal](https://github.com/BhavikManiklal ) 
+
+Ty Marcinczyk 
+[@TylerMar1](https://github.com/TylerMar1)
+
+Ryan Schoessling 
+[@rschoess3](https://github.com/rschoess3)
+
+Jaiden Timmons 
+[@jaidentimmons](https://github.com/jaidentimmons)
 
 ### Client Scenario Overview:
 
