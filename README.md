@@ -5,10 +5,9 @@ Sp24_47114_Group 1
 
 ### Group Members
 
-https://github.com/BhavikManiklal 
 Isabelle Kiser @isabellekiser
 Will Cobb @wjc56122
-Bhavik Maniklal @BhavikManiklal
+Bhavik Maniklal [@BhavikManiklal](https://github.com/BhavikManiklal ) 
 Ty Marcinczyk @TylerMar1
 Ryan Schoessling @rschoess3
 Jaiden Timmons @jaidentimmons
@@ -30,7 +29,21 @@ To tackle this challenge, we require a relational database system that can strea
 ### Data Model 
 ![DataModelpic](https://github.com/isabellekiser/Soccer-Team/assets/149964200/0969a4d6-e0a9-46c0-8d85-15938972a8c4)
 
-*Explanation*
+Our data model is based on the structure of a hypothetical professional soccer club. The Member entity represents individual members of the club. A member can be a player, coach, athletic trainer, etc. This is represented by the “role” attribute within member. A member is further detailed by the entity Membership which is related to Member with a many-to-one relationship. A member may have multiple membership types if they have multiple duties with the club. 
+
+Member is also related to Transactions with a one-to-many relationship which shows that a member can make multiple transactions with the club. Our soccer club also sells merchandise. The transaction is related to the Merchandise entity through a many-to-one relationship. This represents that a piece of merchandise can be sold in multiple transactions.
+
+Our soccer club has many different teams ranging from the highest level professional teams to many developmental teams where we have players that we believe will one day be good enough to play on our top team. The Team entity is related to Member with a many-to-many relationship through the associative entity MemberTeam. MemberTeam represents the different team members on each team.
+
+Since we have multiple teams with different skill levels, naturally they play in different leagues. The League entity is related to team through a one-to-many relationship. This is because a league hold host to many different teams, but a team can only play in one league.
+
+Each team has a number of different matches they play throughout the season. This is why Team is related to the Matches entity through a many-to-many relationship with the associated entity TeamMatches. TeamMatches represents the individual matches and which team played in the match.
+
+Our players will only get better if they practice their craft. This is why we host multiple training sessions per week. Team is connected to the TrainingSession entity by a one-to-many relationship. This represents how one team has many different training sessions. These training sessions take place in one of our state-of-the-art facilities. The Facility entity is connected to TrainingSession by a one-to-many relationship because a facility can host many different training sessions.
+
+Since our facilities are so nice, we also host matches in these facilities. This is why Facility has a one-to-many relationship with the Matches entity. One facility will host many matches.
+
+Being such a popular soccer club, we have many spectators at every game. The spectators have to buy tickets to gain admission to the matches. This is why there is a one-to-many relationship between Matches and the Ticket entity. One match will have many tickets.
 
 ### Data Dictionary
 # ![facility table](https://github.com/isabellekiser/Soccer-Team/assets/149964200/7c653ca1-baa1-47d7-939e-9fc8659a3bac)
@@ -86,6 +99,7 @@ Query 9:
 
 
 Query 10:
+# ![query 10](https://github.com/isabellekiser/Soccer-Team/assets/149964200/4e37e059-22b8-4e50-964c-632b93956060)
 
 
 ### Database information:
