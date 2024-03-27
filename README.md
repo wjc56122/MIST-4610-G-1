@@ -1,9 +1,9 @@
 # MIST 4610 Group Project 1 
-### Group Name
+### Group Name:
 
 Sp24_47114_Group 1
 
-### Group Members
+### Group Members:
 
 Isabelle Kiser 
 [@isabellekiser](https://github.com/isabellekiser)
@@ -29,7 +29,7 @@ Community FC, under the dynamic leadership of the owner, has established itself 
 
 The club's facilities are top-notch, featuring multiple soccer fields, a clubhouse with locker rooms, a gym, and a merchandise shop. Community FC prides itself on its inclusive environment, welcoming members from various backgrounds to participate in its programs.
 
-### Project Problem
+### Project Problem:
 
 At Community FC, our primary challenge revolves around the complex coordination needed to manage our soccer club efficiently. From member management and team organization to league administration, facility scheduling, financial transactions, and merchandise sales, many interconnected elements require seamless integration.
 
@@ -37,7 +37,7 @@ Coordinating member profiles, team assignments, league participation, facility b
 
 To tackle this challenge, we require a relational database system that can streamline these processes, providing real-time visibility into club operations and facilitating smooth coordination across all facets of our organization. This solution will enable us to enhance member experiences, optimize resource utilization, and uphold Community FC's commitment to excellence in our local soccer community.
 
-### Data Model 
+### Data Model:
 ![DataModelpic](https://github.com/isabellekiser/Soccer-Team/assets/149964200/0969a4d6-e0a9-46c0-8d85-15938972a8c4)
 
 Our data model is based on the structure of a hypothetical professional soccer club. The Member entity represents individual members of the club. A member can be a player, coach, athletic trainer, etc. This is represented by the “role” attribute within member. A member is further detailed by the entity Membership which is related to Member with a many-to-one relationship. A member may have multiple membership types if they have multiple duties with the club. 
@@ -56,7 +56,7 @@ Since our facilities are so nice, we also host matches in these facilities. This
 
 Being such a popular soccer club, we have many spectators at every game. The spectators have to buy tickets to gain admission to the matches. This is why there is a one-to-many relationship between Matches and the Ticket entity. One match will have many tickets.
 
-### Data Dictionary
+### Data Dictionary:
 # ![facility table](https://github.com/isabellekiser/Soccer-Team/assets/149964200/7c653ca1-baa1-47d7-939e-9fc8659a3bac)
 # ![league table](https://github.com/isabellekiser/Soccer-Team/assets/149964200/323a022f-6323-4773-ba2c-74be7007c44e)
 # ![Matches table](https://github.com/isabellekiser/Soccer-Team/assets/149964200/c9423233-45d4-4ebb-bac0-8870db6f7354)
@@ -70,9 +70,8 @@ Being such a popular soccer club, we have many spectators at every game. The spe
 # ![transaction](https://github.com/isabellekiser/Soccer-Team/assets/149964200/080d167a-cc50-40d8-aa7f-1e323001dad9)
 # ![team](https://github.com/isabellekiser/Soccer-Team/assets/149964200/e406d8ea-69ca-4ccb-8b92-74c8a9fc2be0)
 
-### Queries
+### Queries:
 <img width="760" alt="Screenshot 2024-03-27 at 4 57 14 PM" src="https://github.com/isabellekiser/Soccer-Team/assets/150088753/96ebecb4-8f05-4fc1-8f98-fdbe39497afa">
-
 
 Query 1:
 # ![query 1](https://github.com/isabellekiser/Soccer-Team/assets/149964200/8ef2d313-7802-407e-bb86-dea37f59fc90)
