@@ -6,6 +6,7 @@ Sp24_47114_Group 1
 ### Group Members
 
 Isabelle Kiser 
+
 [@isabellekiser](https://github.com/isabellekiser)
 Will Cobb [@wjc56122](https://github.com/wjc56122)
 Bhavik Maniklal [@BhavikManiklal](https://github.com/BhavikManiklal ) 
