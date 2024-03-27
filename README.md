@@ -70,9 +70,9 @@ Being such a popular soccer club, we have many spectators at every game. The spe
 # ![transaction](https://github.com/isabellekiser/Soccer-Team/assets/149964200/080d167a-cc50-40d8-aa7f-1e323001dad9)
 # ![team](https://github.com/isabellekiser/Soccer-Team/assets/149964200/e406d8ea-69ca-4ccb-8b92-74c8a9fc2be0)
 
+### Queries
 <img width="760" alt="Screenshot 2024-03-27 at 4 57 14 PM" src="https://github.com/isabellekiser/Soccer-Team/assets/150088753/96ebecb4-8f05-4fc1-8f98-fdbe39497afa">
 
-### Queries
 Query 1:
 # ![query 1](https://github.com/isabellekiser/Soccer-Team/assets/149964200/8ef2d313-7802-407e-bb86-dea37f59fc90)
 Query 1 selects product names and their corresponding stock levels from the "Merchandise" table, filtering for items with stock levels below 40 and prices exceeding 50. This provides managers with a concise list of high-value products that are running low on stock, aiding in strategic inventory management. By prioritizing restocking efforts for these items, managers can ensure the availability of profitable products to meet customer demand, optimize inventory levels, and minimize the risk of stockouts, thereby enhancing sales and customer satisfaction.
