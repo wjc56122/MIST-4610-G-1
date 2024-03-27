@@ -45,6 +45,8 @@ Query 1:
 Query 1 selects team names from the "Team" table where the number of players exceeds 10. This query offers insights into team dynamics, resource allocation, and strategic planning. Teams with over 10 players may require additional resources like coaching staff, facilities, and equipment. It is helpful for aspects such as registering for tournaments, where team size often affects eligibility and competitiveness.
 
 Query 2:
+# ![query 2](https://github.com/isabellekiser/Soccer-Team/assets/149964200/fd65a8e7-3b9c-4a08-99d6-f6f0c01187e1)
+Query 2 selects product names and their corresponding stock levels from the "Merchandise" table, filtering for items with stock levels below 40 and prices exceeding 50. This provides managers with a concise list of high-value products that are running low on stock, aiding in strategic inventory management. By prioritizing restocking efforts for these items, managers can ensure the availability of profitable products to meet customer demand, optimize inventory levels, and minimize the risk of stockouts, thereby enhancing sales and customer satisfaction.
 
 Query 3:
 
