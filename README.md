@@ -40,38 +40,46 @@ To tackle this challenge, we require a relational database system that can strea
 # ![team](https://github.com/isabellekiser/Soccer-Team/assets/149964200/e406d8ea-69ca-4ccb-8b92-74c8a9fc2be0)
 
 ### Queries
+Simple Queries
 Query 1:
-# ![query 1](https://github.com/isabellekiser/Soccer-Team/assets/149964200/67b69ad1-f6ca-4a44-be75-6a3197a18cad)
-Query 1 selects team names from the "Team" table where the number of players exceeds 10. This query offers insights into team dynamics, resource allocation, and strategic planning. Teams with over 10 players may require additional resources like coaching staff, facilities, and equipment. It is helpful for aspects such as registering for tournaments, where team size often affects eligibility and competitiveness.
+# ![query 1](https://github.com/isabellekiser/Soccer-Team/assets/149964200/8ef2d313-7802-407e-bb86-dea37f59fc90)
+Query 1 selects product names and their corresponding stock levels from the "Merchandise" table, filtering for items with stock levels below 40 and prices exceeding 50. This provides managers with a concise list of high-value products that are running low on stock, aiding in strategic inventory management. By prioritizing restocking efforts for these items, managers can ensure the availability of profitable products to meet customer demand, optimize inventory levels, and minimize the risk of stockouts, thereby enhancing sales and customer satisfaction.
 
 Query 2:
-# ![query 2](https://github.com/isabellekiser/Soccer-Team/assets/149964200/fd65a8e7-3b9c-4a08-99d6-f6f0c01187e1)
-Query 2 selects product names and their corresponding stock levels from the "Merchandise" table, filtering for items with stock levels below 40 and prices exceeding 50. This provides managers with a concise list of high-value products that are running low on stock, aiding in strategic inventory management. By prioritizing restocking efforts for these items, managers can ensure the availability of profitable products to meet customer demand, optimize inventory levels, and minimize the risk of stockouts, thereby enhancing sales and customer satisfaction.
+# ![query 2](https://github.com/isabellekiser/Soccer-Team/assets/149964200/bce6e505-feab-4b6d-9c38-925385fbd406)
+Query 2 aggregates data from a training session database, counting the occurrences of each focus area within the sessions. This information is invaluable for managers as it provides a clear snapshot of where training efforts are being directed. By identifying which skills or topics receive more attention, managers can allocate resources more effectively, tailor training programs to address specific needs and ensure a balanced approach to skill development within the organization. Additionally, it enables managers to pinpoint areas of strength and areas needing improvement, facilitating informed decision-making to optimize workforce performance and achieve organizational goals efficiently.
 
 Query 3:
+# ![query 3](https://github.com/isabellekiser/Soccer-Team/assets/149964200/f2eb3074-85a9-47a3-9c65-27fddb524384)
+
 
 Query 4:
+# ![query 4](https://github.com/isabellekiser/Soccer-Team/assets/149964200/9de8f5a8-f84d-4f2f-b736-bb9c49171dfb)
+Query 4 retrieves the genders of members whose memberships are set to end in 2024 by joining the "Membership" table with the "Member" table on their respective IDs and filtering for memberships ending in that year. This information is crucial for soccer team management as it allows them to understand the demographic composition of expiring memberships, which in turn informs targeted retention strategies, marketing efforts, and resource allocation. By knowing the genders of members whose memberships are ending, the management can tailor communication, programming, and facilities to better cater to the diverse preferences of their membership base, ultimately fostering greater engagement and ensuring the club's long-term success.
 
+Complex Queries:
 Query 5:
-# ![query 5](https://github.com/isabellekiser/Soccer-Team/assets/149964200/10fa89bf-6952-4dda-aa0e-ae31ba6b6e0f)
-Query 5 retrieves the memberId, last name, and total transaction amount for each member whose transactions exceed $400. It accomplishes this by joining the "Member" table with the "Transaction" table on member IDs, summing up transaction amounts for each member, and filtering for those whose total exceeds $400. This information is crucial for soccer team management as it allows them to identify high-value members who significantly contribute to the club financially. Understanding the financial contributions of individual members enables tailored communication, acknowledgment, and benefits, fostering stronger relationships and loyalty. It also aids in revenue forecasting, budget allocation, and resource planning, ultimately contributing to the financial stability and growth of the club
+# ![query 5](https://github.com/isabellekiser/Soccer-Team/assets/149964200/8b6ba846-7031-419c-94c1-34856b74d720)
 
 
 Query 6:
-![query 6](https://github.com/isabellekiser/Soccer-Team/assets/149964200/8902c08c-e079-468c-820f-9decf29e7185)
-Query 6 retrieves the genders of members whose memberships are set to end in 2024 by joining the "Membership" table with the "Member" table on their respective IDs and filtering for memberships ending in that year. This information is crucial for soccer team management as it allows them to understand the demographic composition of expiring memberships, which in turn informs targeted retention strategies, marketing efforts, and resource allocation. By knowing the genders of members whose memberships are ending, the management can tailor communication, programming, and facilities to better cater to the diverse preferences of their membership base, ultimately fostering greater engagement and ensuring the club's long-term success.
+# ![query 6](https://github.com/isabellekiser/Soccer-Team/assets/149964200/cdca4ca4-8794-4772-9a60-a7a1cc5642f0)
 
 
 Query 7:
+# ![query 7](https://github.com/isabellekiser/Soccer-Team/assets/149964200/72d5c9e0-999e-4d5e-b2c6-f522c0d96e3e)
 
 
 Query 8:
+# ![query 8](https://github.com/isabellekiser/Soccer-Team/assets/149964200/ce3c7421-68c6-48f3-9448-09d874c78a9c)
 
 
 Query 9:
+# ![query 9](https://github.com/isabellekiser/Soccer-Team/assets/149964200/ce6d7ba0-b8cf-482f-8670-64e769fafd63)
 
 
 Query 10:
+
 
 ### Database information:
 Name of the database: Sp24_47114_Group 1
