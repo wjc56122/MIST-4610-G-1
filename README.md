@@ -70,7 +70,6 @@ Being such a popular soccer club, we have many spectators at every game. The spe
 # ![transaction](https://github.com/isabellekiser/Soccer-Team/assets/149964200/080d167a-cc50-40d8-aa7f-1e323001dad9)
 # ![team](https://github.com/isabellekiser/Soccer-Team/assets/149964200/e406d8ea-69ca-4ccb-8b92-74c8a9fc2be0)
 
-![ex](https://github.com/isabellekiser/Soccer-Team/assets/149964200/c79d1d01-9066-4698-ace5-5a0170464fec)
 <img width="760" alt="Screenshot 2024-03-27 at 4 57 14 PM" src="https://github.com/isabellekiser/Soccer-Team/assets/150088753/96ebecb4-8f05-4fc1-8f98-fdbe39497afa">
 
 ### Queries
