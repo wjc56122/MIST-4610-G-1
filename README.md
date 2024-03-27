@@ -4,7 +4,12 @@
 Sp24_47114_Group 1
 
 ### Group Members
-Isabelle Kiser, Will Cobb, Bhavik Maniklal, Ty Marcinczyk, Ryan Schoessling, Jaiden Timmons
+Isabelle Kiser @isabellekiser
+Will Cobb @wjc56122
+Bhavik Maniklal @BhavikManiklal
+Ty Marcinczyk @TylerMar1
+Ryan Schoessling @rschoess3
+Jaiden Timmons @jaidentimmons
 
 ### Client Scenario Overview:
 
