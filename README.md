@@ -21,7 +21,7 @@ Coordinating member profiles, team assignments, league participation, facility b
 To tackle this challenge, we require a relational database system that can streamline these processes, providing real-time visibility into club operations and facilitating smooth coordination across all facets of our organization. This solution will enable us to enhance member experiences, optimize resource utilization, and uphold Community FC's commitment to excellence in our local soccer community.
 
 ### Data Model 
-![Soccer](https://github.com/isabellekiser/Soccer-Team/assets/149964200/9b751434-b5e1-4c10-9ae3-a451cf59c727)
+![DataModelpic](https://github.com/isabellekiser/Soccer-Team/assets/149964200/0969a4d6-e0a9-46c0-8d85-15938972a8c4)
 
 *Explanation*
 
