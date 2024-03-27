@@ -104,3 +104,5 @@ Query 10:
 
 ### Database information:
 Name of the database: Sp24_47114_Group 1
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
